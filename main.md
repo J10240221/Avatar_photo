@@ -1,7 +1,7 @@
 <h1>个人信息</h1>
 
 <div style="overflow: hidden">
-  <img src="https://raw.githubusercontent.com/J10240221/Avatar_photo/master/1464149128.jpg" alt="头像" style="float: right">
+  <img src="https://raw.githubusercontent.com/J10240221/MyResume/master/Avatar.jpg" alt="头像" style="float: right">
   <div>
     <ul>
       <li>华志林 / 男 / 1993</li>
