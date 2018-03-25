@@ -6,17 +6,17 @@
     <ul>
       <li>华志林 / 男 / 1993</li>
       <li>本科 / 浙江理工大学</li>
-      <li>工作年限：4 年（前端工作经验 2 年）</li>
-      <li>应聘岗位： 前端工程师</li>
-      <li>技术博客： http://www.cnblogs.com/zhilingege/</li>
-      <li>Github： https://github.com/J10240221/</li>
+      <li>工作年限 ：4 年（前端工作经验 2 年）</li>
+      <li>应聘岗位 ： 前端工程师</li>
+      <li>技术博客 ： http://www.cnblogs.com/zhilingege/</li>
+      <li>G i t h u b： https://github.com/J10240221/</li>
     </ul>
   </div>
 </div>
 
 # 联系方式
 
-* 手机：18768194606
+* 手  机：18768194606
 * Email：zhilingege@gmail.com
 * 微信号：baowangweibo
 
