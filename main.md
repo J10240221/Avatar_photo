@@ -10,7 +10,7 @@
       <li>应聘岗位 ： 前端工程师</li>
       <li>技术博客 ： http://www.cnblogs.com/zhilingege/</li>
       <li>G i t h u b： https://github.com/J10240221/</li>
-      <li>自我评价： 踏实负责，完美主义</li>
+      <li>自我评价 ： 踏实负责，完美主义</li>
     </ul>
   </div>
 </div>
