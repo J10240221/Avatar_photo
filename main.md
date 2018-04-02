@@ -6,51 +6,39 @@
     <ul>
       <li>华志林 / 男 / 1993</li>
       <li>本科 / 浙江理工大学</li>
-      <li>工作年限 ：4 年（前端工作经验 2 年）</li>
+      <li>工作年限 ：&nbsp;3 年</li>
       <li>应聘岗位 ： 前端工程师</li>
       <li>技术博客 ： http://www.cnblogs.com/zhilingege/</li>
-      <li>G i t h u b： https://github.com/J10240221/</li>
-      <li>自我评价 ： 踏实负责，完美主义</li>
+      <li><img src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" style="width: 1rem;  vertical-align: sub"> Github： https://github.com/J10240221/</li>
     </ul>
   </div>
 </div>
 
-# 联系方式
-
-* 手 机：18768194606
-* Email：zhilingege@gmail.com
-* 微信号：baowangweibo
-
 # 工作经历
 
-## 杭州爱拼机网络科技有限公司（ 2017 年 7 月 ~ 今 ）
+## 杭州爱拼机网络科技有限公司（ 2017 年 4 月 ~ 今 ）
 
-### Apin 后台管理项目
+### Admin 后台管理项目
 
-* 此项目是公司用于提供客服及市场同事的工作效率，汇总并管理线下订单。项目基于是蚁金服开发的 antDesign Pro 开发，在前端架构师整理好脚手架的基础上，我负责完成了其中大部分的业务代码，并实现了测试结果无 2 级以上 bug 的良好代码实现
-* 使用的主要技术栈为：react + redux + antDesignPro + webpack + eslint(遵循 airbnb 代码规范)
+* 此项目是公司用于提供客服及市场同事的工作效率，汇总并管理线下订单。项目基于是蚁金服开发的 antDesign Pro 开发，在前端架构师整理好脚手架的基础上，我负责完成了其中大部分的业务代码，并实现了测试结果无 2 级以上 bug <img  src="https://twemoji.maxcdn.com/36x36/1f41b.png" style="width: 1rem; vertical-align: sub">的良好代码实现
+  <br/>
+
+* 使用的主要技术栈为：react + reactRoute4.x + redux + antDesignPro + webpack + eslint(代码编写遵循 airbnb 规范)
 
 ### OBT 项目
 
-* 此项目是公司 2c 的 pc 端项目，实现了与手机 app 端相同的业务功能，我负责此项目的完整的支付系统的页面与接口联调工作。
-* 使用的主要技术栈为：react + antd + webpack
+* 此项目是公司 2c 的 pc 端项目，实现了与手机 app 端相同的业务功能，我负责此项目的完整的支付系统的页面与接口联调工作。代码编写可维护性强。后期版本迭代，都能高效、敏捷的完成
+* 使用的主要技术栈为：react + antD + webpack
 
 ### CRM 项目
 
 * 此项目是公司为了更科学有效的管理 B 端的商户，实现的客户关系管理 PC 端平台（主要是 OBT 的管理后台）。我负责此项目的一部分业务界面的完成和接口联调
-* 主要技术栈为：react + antd + webpack
+* 主要技术栈为：react + reactRoute2.x + antD + webpack
 
 ### 冷门线路 H5 项目
 
 * 把 OBT 的主体功能，实现为 H5 版本，便于在微信中推广
-* 使用的主要技术栈为：react + antd + webpack
-
-## 杭州风特网络科技有限公司（ 2016 年 5 月 ~ 2017 年 6 月 ）
-
-### 群嗨服 及 各种 H5 宣传页
-
-* 这些项目主要是为整合汇总各个供应商的游戏，公司为游戏供应商提供更多的流量入口，同时也提高游戏玩家的体验。基本由我独立完成，高度还原 UI 图的效果，并兼容主流浏览器
-* 使用的主要技术栈为：HTML5 + CSS3 + ES5 + JQuery + Bootstrap
+* 使用的主要技术栈为：react + antD + webpack
 
 <!-- ### MNO 项目
 
@@ -60,7 +48,7 @@
 
 我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。 -->
 
-## 中国美术学院风景建筑设计研究院 （ 2014 年 6 月 ~ 2016 年 4 月， 非 IT 技术岗）
+## 中国美术学院风景建筑设计研究院 （ 2014 年 6 月 ~ 2017 年 2 月， 非 IT 技术岗）
 
 ### 海南碧玉湖风景区设计
 
@@ -69,6 +57,35 @@
 ### 西湖风景区植物园扩建工程
 
 * 项目中我主要负责园区内景观、建筑的施工图设计。与植物、景观、建筑、规划各个工种的设计师配合，高效的完成了此工作
+
+# 技能清单
+
+以下均为我熟练使用的技能
+
+* 前端开发：HTML5 / CSS3 / ES5、6
+* 前端框架：React / Redux / antD / JQuery / EasyUI / Bootstrap
+* 各类工具：Webpack / LeSS / Npm / Yarn / Eslint / NaviCat
+* 版本管理：git
+* 后台相关（了解使用）：NodeJS / Express / MySQL
+* 单元测试：Jest
+* 其他工具：PS / CAD
+
+# 自我评价
+
+* 在国企建筑行业的 2 年多工作经历，给与了我良好的美感和严谨的工作方式。但觉得余生仍很长，希望能从事自己喜欢的行业。在对象的支持和鼓励下，果断的选择了程序员这一向往的职业
+* 工作上主动积极，乐于分享，有担当，基本都能按时保质的完成业务需求
+* 偏爱 google，能够阅读英文官方文档
+
+# 联系方式
+
+* 手&nbsp;&nbsp;机 ：18768194606 <img src="https://twemoji.maxcdn.com/36x36/1f603.png" style="width: 1rem;  vertical-align: sub"> call me
+* Email &nbsp;：zhilingege@gmail.com
+* 微信号：baowangweibo
+
+---
+
+感谢您花时间阅读我的简历，期待能与您共事。
+
   <!-- # 开源项目和作品
 
 （这一段用于放置工作以外的、可证明你的能力的材料）
@@ -88,19 +105,3 @@
 * [来自 HeroKu 的 HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ 好的翻译文章可以侧证你对英文技术文档的阅读能力） -->
 
 <!-- （我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错） -->
-
-# 技能清单
-
-以下均为我熟练使用的技能
-
-* Web开发：HTML5 / CSS3 / ES5、6
-* 前端框架：React / Redux / AntD / JQuery / EasyUI / Bootstrap
-* 前端工具：Webpack / LeSS / Npm / Yarn / Eslint
-* 版本管理：git
-* 后台相关（了解使用）：NodeJS / Express / MySQL / NaviCat
-* 单元测试：Jest
-* 其他工具：PS / CAD
-
----
-
-感谢您花时间阅读我的简历，期待能有机会和您共事。
