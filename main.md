@@ -21,7 +21,6 @@
 ### Admin 后台管理项目
 
 * 此项目是公司用于提供客服及市场同事的工作效率，汇总并管理线下订单。项目基于是蚁金服开发的 antDesign Pro 开发，在前端架构师整理好脚手架的基础上，我负责完成了其中大部分的业务代码，并实现了测试结果无 2 级以上 bug <img  src="https://twemoji.maxcdn.com/36x36/1f41b.png" style="width: 1rem; vertical-align: sub">的良好代码实现
-  <br/>
 
 * 使用的主要技术栈为：react + reactRoute4.x + redux + antDesignPro + webpack + eslint(代码编写遵循 airbnb 规范)
 
